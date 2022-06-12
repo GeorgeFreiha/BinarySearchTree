@@ -137,3 +137,5 @@ private BinaryNode insert(BinaryNode currentNode, int value){
     System.out.println("Binary Search Tree is successfully deleted!");
   }
 }
+
+///BST performs better than a regular Binary Tree
