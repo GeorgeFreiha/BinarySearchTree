@@ -132,4 +132,8 @@ private BinaryNode insert(BinaryNode currentNode, int value){
   
   
 }
+  public void deleteBST(){
+    root = null; /////////////////O(1), time and space; 
+    System.out.println("Binary Search Tree is successfully deleted!");
+  }
 }
